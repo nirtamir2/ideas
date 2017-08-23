@@ -1,3 +1,16 @@
+## רעיונות
+
+אפליקציה שמג'נרטת משפטים חכמים בשביל הענקות דרגה כלשהם או אירועים מיוחדים
+
+ קביעת מפגשים וצפייה מי מגיע אפליקציית מי בא
+
+ניהול משחקי טניס
+
+ניהול משחקי כדורגל
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nirtamir2/ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
